@@ -1,0 +1,331 @@
+{
+  "stats": {
+    "sumIncome": "43000",
+    "sumExpense": "2020708",
+    "profit": "-1977708"
+  },
+  "salaries": {
+    "sumValue": "926142",
+    "details": [
+      {
+        "groupId": 14,
+        "groupName": "ОФИС",
+        "items": [
+          {
+            "employeeId": 14,
+            "employeeName": "Андрей",
+            "fixedPart": "6000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 15,
+            "employeeName": "Даша",
+            "fixedPart": "57142",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 17,
+            "employeeName": "Кристина",
+            "fixedPart": "8000",
+            "bonusPart": "0"
+          }
+        ]
+      },
+      {
+        "groupId": 15,
+        "groupName": "ПРОИЗВОДСТВО",
+        "items": [
+          {
+            "employeeId": 22,
+            "employeeName": "Андрей",
+            "fixedPart": "70000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 26,
+            "employeeName": "Валера",
+            "fixedPart": "85000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 27,
+            "employeeName": "Влад",
+            "fixedPart": "70000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 25,
+            "employeeName": "Володя",
+            "fixedPart": "70000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 23,
+            "employeeName": "Женя",
+            "fixedPart": "90000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 24,
+            "employeeName": "Игорь",
+            "fixedPart": "90000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 33,
+            "employeeName": "Сергей",
+            "fixedPart": "80000",
+            "bonusPart": "0"
+          }
+        ]
+      },
+      {
+        "groupId": 16,
+        "groupName": "Руководители",
+        "items": [
+          {
+            "employeeId": 29,
+            "employeeName": "Илья",
+            "fixedPart": "150000",
+            "bonusPart": "0"
+          },
+          {
+            "employeeId": 28,
+            "employeeName": "Маша",
+            "fixedPart": "150000",
+            "bonusPart": "0"
+          }
+        ]
+      }
+    ]
+  },
+  "expenses": [
+    {
+      "groupId": 41,
+      "groupName": "Аренда",
+      "items": [
+        {
+          "expenseId": 33,
+          "expenseName": "Аренда доп",
+          "sumValue": "10305"
+        },
+        {
+          "expenseId": 31,
+          "expenseName": "Аренда цеха",
+          "sumValue": "150000"
+        },
+        {
+          "expenseId": 32,
+          "expenseName": "Аренда шоурума",
+          "sumValue": "100000"
+        }
+      ]
+    },
+    {
+      "groupId": 48,
+      "groupName": "Выплаты вознаграждений",
+      "items": [
+        {
+          "expenseId": 45,
+          "expenseName": "Бонусы дизайнерам",
+          "sumValue": "102331"
+        }
+      ]
+    },
+    {
+      "groupId": 47,
+      "groupName": "Закупки для цеха",
+      "items": [
+        {
+          "expenseId": 59,
+          "expenseName": "Зеркала",
+          "sumValue": "24146"
+        },
+        {
+          "expenseId": 73,
+          "expenseName": "Инструменты, расходники",
+          "sumValue": "40732"
+        },
+        {
+          "expenseId": 44,
+          "expenseName": "Лакокраска",
+          "sumValue": "49600"
+        },
+        {
+          "expenseId": 51,
+          "expenseName": "Массив",
+          "sumValue": "213600"
+        },
+        {
+          "expenseId": 49,
+          "expenseName": "МДФ голый",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 50,
+          "expenseName": "МДФ шпон",
+          "sumValue": "209762"
+        },
+        {
+          "expenseId": 67,
+          "expenseName": "Металл",
+          "sumValue": "4740"
+        },
+        {
+          "expenseId": 60,
+          "expenseName": "Мрамор",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 72,
+          "expenseName": "Обивка сидушек",
+          "sumValue": "6500"
+        },
+        {
+          "expenseId": 64,
+          "expenseName": "Поролон",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 61,
+          "expenseName": "Ручки",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 63,
+          "expenseName": "Ткани",
+          "sumValue": "4875"
+        },
+        {
+          "expenseId": 62,
+          "expenseName": "Фурнитура",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 74,
+          "expenseName": "Шпонирование",
+          "sumValue": "93308"
+        }
+      ]
+    },
+    {
+      "groupId": 52,
+      "groupName": "Закупки для шоу-рума",
+      "items": [
+        {
+          "expenseId": 70,
+          "expenseName": "Искусство и аксессуары - выплаты мастерам",
+          "sumValue": "1253"
+        },
+        {
+          "expenseId": 75,
+          "expenseName": "Маркетинг, реклама",
+          "sumValue": "21743"
+        },
+        {
+          "expenseId": 69,
+          "expenseName": "Подушки декоративные",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 66,
+          "expenseName": "Посуда для шоу-рума",
+          "sumValue": "30592"
+        },
+        {
+          "expenseId": 65,
+          "expenseName": "Свечи и диффузоры",
+          "sumValue": "0"
+        }
+      ]
+    },
+    {
+      "groupId": 51,
+      "groupName": "Налоги",
+      "items": [
+        {
+          "expenseId": 55,
+          "expenseName": "Налоги за сотрудников",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 56,
+          "expenseName": "УСН",
+          "sumValue": "0"
+        }
+      ]
+    },
+    {
+      "groupId": 42,
+      "groupName": "Сервисы",
+      "items": [
+        {
+          "expenseId": 34,
+          "expenseName": "Бизнес.ру",
+          "sumValue": "7500"
+        },
+        {
+          "expenseId": 57,
+          "expenseName": "Касса Бизнес Ру",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 68,
+          "expenseName": "Манго телефония",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 35,
+          "expenseName": "\"Моё дело\"",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 52,
+          "expenseName": "Обслуживание сайта",
+          "sumValue": "3168"
+        },
+        {
+          "expenseId": 58,
+          "expenseName": "Размещение вакансий",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 53,
+          "expenseName": "Разработка приложения",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 71,
+          "expenseName": "Таплинк",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 76,
+          "expenseName": "Техника безопасности",
+          "sumValue": "15000"
+        }
+      ]
+    },
+    {
+      "groupId": 49,
+      "groupName": "Транспортные расходы и доставки",
+      "items": [
+        {
+          "expenseId": 48,
+          "expenseName": "Деловые линии",
+          "sumValue": "0"
+        },
+        {
+          "expenseId": 46,
+          "expenseName": "Оплата водителя",
+          "sumValue": "5000"
+        },
+        {
+          "expenseId": 47,
+          "expenseName": "СДЭК",
+          "sumValue": "411"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "recordId": 124,
+    "expenseId": 63,
+    "expenseName": "Ткани",
+    "date": "2022-11-22",
+    "value": "2895",
+    "comment": ""
+  },
+  {
+    "recordId": 125,
+    "expenseId": 46,
+    "expenseName": "Оплата водителя",
+    "date": "2022-11-22",
+    "value": "2500",
+    "comment": ""
+  },
+  {
+    "recordId": 122,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-21",
+    "value": "11700",
+    "comment": ""
+  },
+  {
+    "recordId": 121,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-21",
+    "value": "24440",
+    "comment": ""
+  },
+  {
+    "recordId": 120,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-21",
+    "value": "7670",
+    "comment": ""
+  },
+  {
+    "recordId": 123,
+    "expenseId": 44,
+    "expenseName": "Лакокраска",
+    "date": "2022-11-21",
+    "value": "16353",
+    "comment": ""
+  },
+  {
+    "recordId": 119,
+    "expenseId": 70,
+    "expenseName": "Искусство и аксессуары - выплаты мастерам",
+    "date": "2022-11-21",
+    "value": "1253",
+    "comment": "Свеча брулеск"
+  },
+  {
+    "recordId": 116,
+    "expenseId": 50,
+    "expenseName": "МДФ шпон",
+    "date": "2022-11-18",
+    "value": "44418",
+    "comment": ""
+  },
+  {
+    "recordId": 118,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-18",
+    "value": "3552",
+    "comment": ""
+  },
+  {
+    "recordId": 117,
+    "expenseId": 75,
+    "expenseName": "Маркетинг, реклама",
+    "date": "2022-11-18",
+    "value": "15695",
+    "comment": "Коробки для образцов"
+  },
+  {
+    "recordId": 115,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-17",
+    "value": "2886",
+    "comment": ""
+  },
+  {
+    "recordId": 114,
+    "expenseId": 50,
+    "expenseName": "МДФ шпон",
+    "date": "2022-11-16",
+    "value": "139334",
+    "comment": ""
+  },
+  {
+    "recordId": 113,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-15",
+    "value": "798",
+    "comment": ""
+  },
+  {
+    "recordId": 110,
+    "expenseId": 75,
+    "expenseName": "Маркетинг, реклама",
+    "date": "2022-11-11",
+    "value": "6048",
+    "comment": ""
+  },
+  {
+    "recordId": 109,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-11",
+    "value": "11024",
+    "comment": ""
+  },
+  {
+    "recordId": 108,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-11",
+    "value": "5616",
+    "comment": ""
+  },
+  {
+    "recordId": 107,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-11",
+    "value": "6349",
+    "comment": ""
+  },
+  {
+    "recordId": 105,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-11",
+    "value": "11500",
+    "comment": ""
+  },
+  {
+    "recordId": 106,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-11",
+    "value": "18720",
+    "comment": ""
+  },
+  {
+    "recordId": 112,
+    "expenseId": 67,
+    "expenseName": "Металл",
+    "date": "2022-11-11",
+    "value": "4740",
+    "comment": ""
+  },
+  {
+    "recordId": 111,
+    "expenseId": 76,
+    "expenseName": "Техника безопасности",
+    "date": "2022-11-11",
+    "value": "15000",
+    "comment": "За август, сентябрь, октябрь"
+  },
+  {
+    "recordId": 104,
+    "expenseId": 50,
+    "expenseName": "МДФ шпон",
+    "date": "2022-11-09",
+    "value": "26010",
+    "comment": ""
+  },
+  {
+    "recordId": 102,
+    "expenseId": 33,
+    "expenseName": "Аренда доп",
+    "date": "2022-11-09",
+    "value": "700",
+    "comment": "Вешалки для шкафа"
+  },
+  {
+    "recordId": 103,
+    "expenseId": 74,
+    "expenseName": "Шпонирование",
+    "date": "2022-11-09",
+    "value": "93308",
+    "comment": ""
+  },
+  {
+    "recordId": 101,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-08",
+    "value": "4992",
+    "comment": ""
+  },
+  {
+    "recordId": 100,
+    "expenseId": 59,
+    "expenseName": "Зеркала",
+    "date": "2022-11-08",
+    "value": "13560",
+    "comment": ""
+  },
+  {
+    "recordId": 98,
+    "expenseId": 34,
+    "expenseName": "Бизнес.ру",
+    "date": "2022-11-07",
+    "value": "7500",
+    "comment": "ОФД на 3 года"
+  },
+  {
+    "recordId": 97,
+    "expenseId": 73,
+    "expenseName": "Инструменты, расходники",
+    "date": "2022-11-07",
+    "value": "3276",
+    "comment": ""
+  },
+  {
+    "recordId": 96,
+    "expenseId": 66,
+    "expenseName": "Посуда для шоу-рума",
+    "date": "2022-11-07",
+    "value": "700",
+    "comment": "За проезд на территорию"
+  },
+  {
+    "recordId": 95,
+    "expenseId": 72,
+    "expenseName": "Обивка сидушек",
+    "date": "2022-11-07",
+    "value": "6500",
+    "comment": ""
+  },
+  {
+    "recordId": 94,
+    "expenseId": 66,
+    "expenseName": "Посуда для шоу-рума",
+    "date": "2022-11-07",
+    "value": "29892",
+    "comment": ""
+  },
+  {
+    "recordId": 93,
+    "expenseId": 63,
+    "expenseName": "Ткани",
+    "date": "2022-11-07",
+    "value": "1980",
+    "comment": ""
+  },
+  {
+    "recordId": 91,
+    "expenseId": 52,
+    "expenseName": "Обслуживание сайта",
+    "date": "2022-11-07",
+    "value": "3168",
+    "comment": "Сервер на 3 месяца"
+  },
+  {
+    "recordId": 92,
+    "expenseId": 47,
+    "expenseName": "СДЭК",
+    "date": "2022-11-07",
+    "value": "411",
+    "comment": ""
+  },
+  {
+    "recordId": 99,
+    "expenseId": 44,
+    "expenseName": "Лакокраска",
+    "date": "2022-11-07",
+    "value": "33247",
+    "comment": ""
+  },
+  {
+    "recordId": 88,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-05",
+    "value": "17446",
+    "comment": ""
+  },
+  {
+    "recordId": 90,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-05",
+    "value": "5274",
+    "comment": ""
+  },
+  {
+    "recordId": 89,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-05",
+    "value": "4160",
+    "comment": ""
+  },
+  {
+    "recordId": 87,
+    "expenseId": 45,
+    "expenseName": "Бонусы дизайнерам",
+    "date": "2022-11-05",
+    "value": "3660",
+    "comment": ""
+  },
+  {
+    "recordId": 126,
+    "expenseId": 33,
+    "expenseName": "Аренда доп",
+    "date": "2022-11-03",
+    "value": "6666",
+    "comment": ""
+  },
+  {
+    "recordId": 86,
+    "expenseId": 33,
+    "expenseName": "Аренда доп",
+    "date": "2022-11-02",
+    "value": "9605",
+    "comment": ""
+  },
+  {
+    "recordId": 85,
+    "expenseId": 46,
+    "expenseName": "Оплата водителя",
+    "date": "2022-11-02",
+    "value": "2500",
+    "comment": ""
+  },
+  {
+    "recordId": 84,
+    "expenseId": 59,
+    "expenseName": "Зеркала",
+    "date": "2022-11-02",
+    "value": "10586",
+    "comment": ""
+  },
+  {
+    "recordId": 83,
+    "expenseId": 51,
+    "expenseName": "Массив",
+    "date": "2022-11-02",
+    "value": "213600",
+    "comment": ""
+  },
+  {
+    "recordId": 82,
+    "expenseId": 32,
+    "expenseName": "Аренда шоурума",
+    "date": "2022-11-01",
+    "value": "100000",
+    "comment": ""
+  },
+  {
+    "recordId": 81,
+    "expenseId": 31,
+    "expenseName": "Аренда цеха",
+    "date": "2022-11-01",
+    "value": "150000",
+    "comment": ""
+  }
+]

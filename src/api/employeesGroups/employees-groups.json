@@ -1,0 +1,68 @@
+[
+  {
+    "groupId": 14,
+    "groupName": "ОФИС",
+    "employees": [
+      {
+        "employeeId": 14,
+        "employeeName": "Андрей"
+      },
+      {
+        "employeeId": 15,
+        "employeeName": "Даша"
+      },
+      {
+        "employeeId": 17,
+        "employeeName": "Кристина"
+      }
+    ]
+  },
+  {
+    "groupId": 15,
+    "groupName": "ПРОИЗВОДСТВО",
+    "employees": [
+      {
+        "employeeId": 22,
+        "employeeName": "Андрей"
+      },
+      {
+        "employeeId": 26,
+        "employeeName": "Валера"
+      },
+      {
+        "employeeId": 27,
+        "employeeName": "Влад"
+      },
+      {
+        "employeeId": 25,
+        "employeeName": "Володя"
+      },
+      {
+        "employeeId": 23,
+        "employeeName": "Женя"
+      },
+      {
+        "employeeId": 24,
+        "employeeName": "Игорь"
+      },
+      {
+        "employeeId": 33,
+        "employeeName": "Сергей"
+      }
+    ]
+  },
+  {
+    "groupId": 16,
+    "groupName": "Руководители",
+    "employees": [
+      {
+        "employeeId": 29,
+        "employeeName": "Илья"
+      },
+      {
+        "employeeId": 28,
+        "employeeName": "Маша"
+      }
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "groupId": 41,
+    "groupName": "Аренда",
+    "expenses": [
+      {
+        "expenseId": 33,
+        "expenseName": "Аренда доп"
+      },
+      {
+        "expenseId": 31,
+        "expenseName": "Аренда цеха"
+      },
+      {
+        "expenseId": 32,
+        "expenseName": "Аренда шоурума"
+      }
+    ]
+  },
+  {
+    "groupId": 48,
+    "groupName": "Выплаты вознаграждений",
+    "expenses": [
+      {
+        "expenseId": 45,
+        "expenseName": "Бонусы дизайнерам"
+      }
+    ]
+  },
+  {
+    "groupId": 47,
+    "groupName": "Закупки для цеха",
+    "expenses": [
+      {
+        "expenseId": 59,
+        "expenseName": "Зеркала"
+      },
+      {
+        "expenseId": 73,
+        "expenseName": "Инструменты, расходники"
+      },
+      {
+        "expenseId": 44,
+        "expenseName": "Лакокраска"
+      },
+      {
+        "expenseId": 51,
+        "expenseName": "Массив"
+      },
+      {
+        "expenseId": 49,
+        "expenseName": "МДФ голый"
+      },
+      {
+        "expenseId": 50,
+        "expenseName": "МДФ шпон"
+      },
+      {
+        "expenseId": 67,
+        "expenseName": "Металл"
+      },
+      {
+        "expenseId": 60,
+        "expenseName": "Мрамор"
+      },
+      {
+        "expenseId": 72,
+        "expenseName": "Обивка сидушек"
+      },
+      {
+        "expenseId": 64,
+        "expenseName": "Поролон"
+      },
+      {
+        "expenseId": 61,
+        "expenseName": "Ручки"
+      },
+      {
+        "expenseId": 63,
+        "expenseName": "Ткани"
+      },
+      {
+        "expenseId": 62,
+        "expenseName": "Фурнитура"
+      },
+      {
+        "expenseId": 74,
+        "expenseName": "Шпонирование"
+      }
+    ]
+  },
+  {
+    "groupId": 52,
+    "groupName": "Закупки для шоу-рума",
+    "expenses": [
+      {
+        "expenseId": 70,
+        "expenseName": "Искусство и аксессуары - выплаты мастерам"
+      },
+      {
+        "expenseId": 75,
+        "expenseName": "Маркетинг, реклама"
+      },
+      {
+        "expenseId": 69,
+        "expenseName": "Подушки декоративные"
+      },
+      {
+        "expenseId": 66,
+        "expenseName": "Посуда для шоу-рума"
+      },
+      {
+        "expenseId": 65,
+        "expenseName": "Свечи и диффузоры"
+      }
+    ]
+  },
+  {
+    "groupId": 51,
+    "groupName": "Налоги",
+    "expenses": [
+      {
+        "expenseId": 55,
+        "expenseName": "Налоги за сотрудников"
+      },
+      {
+        "expenseId": 56,
+        "expenseName": "УСН"
+      }
+    ]
+  },
+  {
+    "groupId": 42,
+    "groupName": "Сервисы",
+    "expenses": [
+      {
+        "expenseId": 34,
+        "expenseName": "Бизнес.ру"
+      },
+      {
+        "expenseId": 57,
+        "expenseName": "Касса Бизнес Ру"
+      },
+      {
+        "expenseId": 68,
+        "expenseName": "Манго телефония"
+      },
+      {
+        "expenseId": 35,
+        "expenseName": "\"Моё дело\""
+      },
+      {
+        "expenseId": 52,
+        "expenseName": "Обслуживание сайта"
+      },
+      {
+        "expenseId": 58,
+        "expenseName": "Размещение вакансий"
+      },
+      {
+        "expenseId": 53,
+        "expenseName": "Разработка приложения"
+      },
+      {
+        "expenseId": 71,
+        "expenseName": "Таплинк"
+      },
+      {
+        "expenseId": 76,
+        "expenseName": "Техника безопасности"
+      }
+    ]
+  },
+  {
+    "groupId": 49,
+    "groupName": "Транспортные расходы и доставки",
+    "expenses": [
+      {
+        "expenseId": 48,
+        "expenseName": "Деловые линии"
+      },
+      {
+        "expenseId": 46,
+        "expenseName": "Оплата водителя"
+      },
+      {
+        "expenseId": 47,
+        "expenseName": "СДЭК"
+      }
+    ]
+  }
+]

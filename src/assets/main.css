@@ -1,0 +1,9 @@
+@import "~normalize.css";
+
+@font-face {
+    font-family: "Bellota Text";
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;
+    src: local("BellotaText"), url("../../public/fonts/BellotaText/BellotaText-Regular.ttf") format("truetype");
+}

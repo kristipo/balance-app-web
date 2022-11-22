@@ -1,0 +1,20 @@
+[
+  {
+    "year": 2022,
+    "month": 12,
+    "stats": {
+      "sumIncome": "0",
+      "sumExpense": "0",
+      "profit": "0"
+    }
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "stats": {
+      "sumIncome": "43000",
+      "sumExpense": "2020708",
+      "profit": "-1977708"
+    }
+  }
+]

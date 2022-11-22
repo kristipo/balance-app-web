@@ -1,0 +1,71 @@
+{
+  "cash": {
+    "cost": "Расходы",
+    "paymentType": "Тип платежа",
+    "paymentDate": "Дата платежа",
+    "description": "Описание",
+    "amount": "Сумма",
+    "createPayment": "Создать новый платеж",
+    "settings": "Настройки",
+    "configuration": "Конфигурации",
+    "newPaymentName": "Название платежа",
+    "month": "Месяц",
+    "wage": "Зарплата",
+    "expenses": "Расходы",
+    "emptyPayments": "Нет записей расходов",
+    "placeholder": "Выберите статью расхода",
+    "decimalPrice": "к:"
+  },
+  "balanceStats": {
+    "sumIncome": "Поступление",
+    "sumExpense": "Расходы",
+    "profit": "Прибыль",
+    "monthLabel": "Месяц",
+    "interval": "Задать интервал",
+    "start": "Начало",
+    "end": "Конец",
+    "defaultInterval": "Посление 12 мес",
+    "showAll": "За всё время"
+  },
+  "settings": {
+    "add": "Добавить",
+    "cancel": "Отмена",
+    "create": "Создать",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "expensesGroups": "Статьи расходов",
+    "employeesGroups": "Кадры",
+    "groupName": "Название группы",
+    "noGroups": {
+      "title": "Нет ни одной группы"
+    },
+    "emptyGroup": "Группа пустая",
+    "name": "Название",
+    "title": "Настройки"
+  },
+  "wage": {
+    "salaries": "Зарплаты",
+    "employeeName": "Работник",
+    "bonusPart": "Бонус",
+    "fixedPart": "Оклад",
+    "addModalTitle": "Добавить зарплату",
+    "editModalTitle": "Редактировать зарплату",
+    "salaryPlaceholder": "Выберите сотрудника"
+  },
+  "addModal": {
+    "errorMessage": "Введите число"
+  },
+  "removeModal": {
+    "title": "Вы хотите удалить?",
+    "remove": "Удалить"
+  },
+  "alertMessage": "Метод не доступен в демо режиме",
+  "date": "Дата",
+  "type": "Тип",
+  "amount": "Сумма",
+  "cancel": "Отмена",
+  "add": "Добавить",
+  "edit": "Редактировать",
+  "description": "Описание",
+  "show": "Показать"
+}
