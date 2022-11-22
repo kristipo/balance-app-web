@@ -50,19 +50,5 @@
         "employeeName": "Сергей"
       }
     ]
-  },
-  {
-    "groupId": 16,
-    "groupName": "Руководители",
-    "employees": [
-      {
-        "employeeId": 29,
-        "employeeName": "Илья"
-      },
-      {
-        "employeeId": 28,
-        "employeeName": "Маша"
-      }
-    ]
   }
 ]

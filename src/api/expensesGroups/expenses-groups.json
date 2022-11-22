@@ -23,7 +23,7 @@
     "expenses": [
       {
         "expenseId": 45,
-        "expenseName": "Бонусы дизайнерам"
+        "expenseName": "Бонусы"
       }
     ]
   },
@@ -41,7 +41,7 @@
       },
       {
         "expenseId": 44,
-        "expenseName": "Лакокраска"
+        "expenseName": "Малярка"
       },
       {
         "expenseId": 51,

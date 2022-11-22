@@ -13,19 +13,19 @@
         "items": [
           {
             "employeeId": 14,
-            "employeeName": "Андрей",
+            "employeeName": "Миша",
             "fixedPart": "6000",
             "bonusPart": "0"
           },
           {
             "employeeId": 15,
-            "employeeName": "Даша",
+            "employeeName": "Татьяна",
             "fixedPart": "57142",
             "bonusPart": "0"
           },
           {
             "employeeId": 17,
-            "employeeName": "Кристина",
+            "employeeName": "Алина",
             "fixedPart": "8000",
             "bonusPart": "0"
           }
@@ -37,7 +37,7 @@
         "items": [
           {
             "employeeId": 22,
-            "employeeName": "Андрей",
+            "employeeName": "Миша",
             "fixedPart": "70000",
             "bonusPart": "0"
           },
@@ -78,24 +78,6 @@
             "bonusPart": "0"
           }
         ]
-      },
-      {
-        "groupId": 16,
-        "groupName": "Руководители",
-        "items": [
-          {
-            "employeeId": 29,
-            "employeeName": "Илья",
-            "fixedPart": "150000",
-            "bonusPart": "0"
-          },
-          {
-            "employeeId": 28,
-            "employeeName": "Маша",
-            "fixedPart": "150000",
-            "bonusPart": "0"
-          }
-        ]
       }
     ]
   },
@@ -127,7 +109,7 @@
       "items": [
         {
           "expenseId": 45,
-          "expenseName": "Бонусы дизайнерам",
+          "expenseName": "Бонусы",
           "sumValue": "102331"
         }
       ]
@@ -143,12 +125,12 @@
         },
         {
           "expenseId": 73,
-          "expenseName": "Инструменты, расходники",
+          "expenseName": "Расходники",
           "sumValue": "40732"
         },
         {
           "expenseId": 44,
-          "expenseName": "Лакокраска",
+          "expenseName": "Малярка",
           "sumValue": "49600"
         },
         {

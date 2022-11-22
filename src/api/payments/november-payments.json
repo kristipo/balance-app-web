@@ -18,7 +18,7 @@
   {
     "recordId": 122,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-21",
     "value": "11700",
     "comment": ""
@@ -26,7 +26,7 @@
   {
     "recordId": 121,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-21",
     "value": "24440",
     "comment": ""
@@ -34,7 +34,7 @@
   {
     "recordId": 120,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-21",
     "value": "7670",
     "comment": ""
@@ -46,14 +46,6 @@
     "date": "2022-11-21",
     "value": "16353",
     "comment": ""
-  },
-  {
-    "recordId": 119,
-    "expenseId": 70,
-    "expenseName": "Искусство и аксессуары - выплаты мастерам",
-    "date": "2022-11-21",
-    "value": "1253",
-    "comment": "Свеча брулеск"
   },
   {
     "recordId": 116,
@@ -114,7 +106,7 @@
   {
     "recordId": 109,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-11",
     "value": "11024",
     "comment": ""
@@ -122,7 +114,7 @@
   {
     "recordId": 108,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-11",
     "value": "5616",
     "comment": ""
@@ -130,7 +122,7 @@
   {
     "recordId": 107,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-11",
     "value": "6349",
     "comment": ""
@@ -194,7 +186,7 @@
   {
     "recordId": 101,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-08",
     "value": "4992",
     "comment": ""
@@ -282,7 +274,7 @@
   {
     "recordId": 88,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-05",
     "value": "17446",
     "comment": ""
@@ -290,7 +282,7 @@
   {
     "recordId": 90,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-05",
     "value": "5274",
     "comment": ""
@@ -298,7 +290,7 @@
   {
     "recordId": 89,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-05",
     "value": "4160",
     "comment": ""
@@ -306,7 +298,7 @@
   {
     "recordId": 87,
     "expenseId": 45,
-    "expenseName": "Бонусы дизайнерам",
+    "expenseName": "Бонусы",
     "date": "2022-11-05",
     "value": "3660",
     "comment": ""

@@ -62,16 +62,11 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: './index.html',
-            title: 'LULU balance',
             minify: isProd
         }),
         new CleanWebpackPlugin(),
         new CopyWebpackPlugin({
             patterns: [
-                {
-                    from: path.resolve(__dirname, 'src/assets', 'logo-app-mini.jpg'),
-                    to: path.resolve(__dirname, 'dist')
-                },
                 {
                     from: path.resolve(__dirname, "src", "assets"),
                     to: path.resolve(__dirname, 'dist/icons')
