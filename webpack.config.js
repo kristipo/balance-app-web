@@ -62,11 +62,16 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: './index.html',
+            title: 'Balance app',
             minify: isProd
         }),
         new CleanWebpackPlugin(),
         new CopyWebpackPlugin({
             patterns: [
+                {
+                    from: path.resolve(__dirname, 'src/assets', 'vue.png'),
+                    to: path.resolve(__dirname, 'dist')
+                },
                 {
                     from: path.resolve(__dirname, "src", "assets"),
                     to: path.resolve(__dirname, 'dist/icons')
